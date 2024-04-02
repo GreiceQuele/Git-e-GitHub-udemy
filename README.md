@@ -1,6 +1,6 @@
 # **Git e GitHub na prática.**
 
-Nesse curso, aprendi muitos conceitos interessantes para se trabalhar com o git e Github. Sendo extremamente importante para projetos remotos.
+Nesse curso, aprendi muitos conceitos interessantes para se trabalhar com o git e _Github_. Sendo extremamente importante para projetos remotos.
 
 ## **Funcionalidades.**
 
