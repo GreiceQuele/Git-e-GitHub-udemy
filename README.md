@@ -1,8 +1,8 @@
-# Git e GitHub na prática.
+# **Git e GitHub na prática.**
 
 Nesse curso, aprendi muitos conceitos interessantes para se trabalhar com o git e Github. Sendo extremamente importante para projetos remotos.
 
-## Funcionalidades.
+## **Funcionalidades.**
 
 Comandos básicos
 Repositórios - criação 
