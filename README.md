@@ -22,6 +22,9 @@ Stash.
 ### **Funcionalidades a desenvolver**
 
 1. Área de mebros
+    1. Login diferente para grupos de clientes
+    2. Desconto especial para grupos de clientes
+    3. CSS diferente para grupo de clientes
 2. Integração com novos pagamentos
 3. Sistema de bonus de primeira compra
 4. Receber newsletter 
