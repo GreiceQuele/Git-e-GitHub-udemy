@@ -12,4 +12,13 @@ Clone de repositórios
 Branchs
 Stash
 
+### **Linguagens abordadas:**
+
+* HTML
+*JavaScript
+*PHP
+*MySQL
+
+
+
 
