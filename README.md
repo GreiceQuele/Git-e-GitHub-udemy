@@ -4,13 +4,13 @@ Nesse curso, aprendi muitos conceitos interessantes para se trabalhar com o git 
 
 ## **Funcionalidades.**
 
-Comandos básicos
-Repositórios - criação 
-Github
+Comandos básicos,
+Repositórios - criação, 
+Github,
 Mudanças no projeto - como git add, commit, pull, push, entre outros.
-Clone de repositórios
-Branchs
-Stash
+Clone de repositórios,
+Branchs,
+Stash.
 
 ### **Linguagens abordadas:**
 
