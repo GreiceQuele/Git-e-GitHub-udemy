@@ -15,9 +15,9 @@ Stash
 ### **Linguagens abordadas:**
 
 * HTML
-*JavaScript
-*PHP
-*MySQL
+* JavaScript
+* PHP
+* MySQL
 
 
 
