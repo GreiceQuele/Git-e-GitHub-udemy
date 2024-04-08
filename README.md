@@ -43,4 +43,12 @@ Stash.
 ![logo do github](https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png)
 
 
+#### **Links exemplos**
+
+[Google] (https://www.google.com/)
+
+[https://www.alura.com.br/](https://www.alura.com.br/)
+
+[![site github](https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png)](https://github.com/GreiceQuele)
+
 
