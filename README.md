@@ -52,3 +52,11 @@ Stash.
 Contribuidor principal:   [![site github](https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png)](https://github.com/GreiceQuele)
 
 
+### **Código da função soma:**
+
+``` javascript
+function soma(a,b) {
+    return a+b ;
+}
+
+```
