@@ -40,7 +40,7 @@ Stash.
 #### **Imagem externa**
 
 
-![logo do github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fpt-br%2Fimg%2Ficones-logos-emojis%2Fempresas-tecnicas%2Fgithub-paisagem-do-logotipo-preto&psig=AOvVaw3dzQNW60WQXnq_zE1wrN1W&ust=1712680034726000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDIhuyEs4UDFQAAAAAdAAAAABAE)
+![logo do github](https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png)
 
 
 
