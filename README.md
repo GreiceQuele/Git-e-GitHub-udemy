@@ -64,8 +64,8 @@ function soma(a,b) {
 ### **Lista de tarefas**
 
 - [x]  Login diferente para grupos de clientes
-- []   Desconto especial para grupos de clientes
+- [ ]   Desconto especial para grupos de clientes
 - [x]  CSS diferente para grupo de clientes
-- []   Integração com novos pagamentos
-- []   Sistema de bonus de primeira compra
+- [ ]   Integração com novos pagamentos
+- [ ]   Sistema de bonus de primeira compra
 - [x]  Receber newsletter 
