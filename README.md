@@ -29,6 +29,9 @@ Stash.
 3. Sistema de bonus de primeira compra
 4. Receber newsletter 
 
+### **Imagem Local**
+
+![logo do git](projeto/img/Git-Icon-1788C.png)
 
 
 
