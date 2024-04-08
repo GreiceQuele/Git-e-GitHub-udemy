@@ -63,9 +63,9 @@ function soma(a,b) {
 
 ### **Lista de tarefas**
 
-- [x] 1. Login diferente para grupos de clientes
-- []  2. Desconto especial para grupos de clientes
-- [x] 3. CSS diferente para grupo de clientes
-- []  2. Integração com novos pagamentos
-- []  3. Sistema de bonus de primeira compra
-- [x] 4. Receber newsletter 
+- [x]  Login diferente para grupos de clientes
+- []   Desconto especial para grupos de clientes
+- [x]  CSS diferente para grupo de clientes
+- []   Integração com novos pagamentos
+- []   Sistema de bonus de primeira compra
+- [x]  Receber newsletter 
